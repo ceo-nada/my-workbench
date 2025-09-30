@@ -1,6 +1,6 @@
 # my-workbench
-An epicure dining at Crue
-found a rather large mouse in his stew.
-Cried the waiter, "Don't shout
-and wave it about,
-or the rest will be wanting one too!"
+An epicure dining at Crue\n
+found a rather large mouse in his stew.\n
+Cried the waiter, "Don't shout\n
+and wave it about,\n
+or the rest will be wanting one too!"\n
