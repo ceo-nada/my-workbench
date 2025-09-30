@@ -1,2 +1,6 @@
 # my-workbench
-My digital workbench for crypto 2.0
+An epicure dining at Crue
+found a rather large mouse in his stew.
+Cried the waiter, "Don't shout
+and wave it about,
+or the rest will be wanting one too!"
