@@ -16,3 +16,6 @@ or the rest will be wanting one too!"
 A new line (local)
 
 New feature will soon be integrated
+
+I hope you enjoyed this poem!
+
